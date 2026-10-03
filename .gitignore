@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Local storage caches
+.mongo_local_store.pkl
+*.pkl
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
